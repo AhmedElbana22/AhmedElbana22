@@ -10,10 +10,10 @@ advancing my skills in T-SQL, Python for data engineering, and Microsoft
 Azure, with a focus on ETL projects and cloud fundamentals.
 
 ## SKILLS
-• leadership
-• Communication 
-• Problem solving 
-• Technical skills
+- leadership
+- Communication 
+- Problem solving 
+- Technical skills
 
 ## PROJECTS
 - [Project 1](link) - Brief description...
