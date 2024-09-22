@@ -1,19 +1,24 @@
-# Welcome to My Portfolio
-Hi, I'm Ahmed Elbana, a Data Scientist and Developer.
+Hi, I'm Ahmed Elbana, 
+#DATA ENGINEER | DATA SCIENTIEST | PROBLEM SOLVER
 
 ## About Me
-I have a passion for solving complex problems...
+I am a long life learner , I am passionate about problem-solving, data 
+structures, and algorithms, with hands-on experience in C++, Python, and 
+Java. I have solved over 1000 problems on Codeforces and hold 
+certifications in data science and data engineering. As a DEPI trainee, I am 
+advancing my skills in T-SQL, Python for data engineering, and Microsoft 
+Azure, with a focus on ETL projects and cloud fundamentals.
 
-## Skills
-- Python
-- SQL
-- Data Science
-- Machine Learning
+## SKILLS
+• leadership
+• Communication 
+• Problem solving 
+• Technical skills
 
-## Projects
+## PROJECTS
 - [Project 1](link) - Brief description...
 - [Project 2](link) - Brief description...
 
-## Contact
-- [LinkedIn](your-linkedin-profile)
+## CONTACT
+- [LinkedIn](www.linkedin.com/in/ahmedelbana-6289812a)
 - Email: aa5618793@gmail.com
