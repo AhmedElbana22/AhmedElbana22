@@ -26,13 +26,14 @@
 
 <p align="left">
 I'm Ahmed Elbana 👋 <br>
-Data Engineer | Data Scientist | Problem Solver<br><br>
+Applied AI Engineer | Machine Learning | NLP<br><br>
 
-I'm Ahmed from Egypt, a lifelong learner passionate about problem solving, data engineering, and intelligent systems. I enjoy building data pipelines, working with cloud platforms, and applying machine learning to real-world data.<br><br>
+I'm Ahmed from Egypt, passionate about building intelligent systems that combine machine learning, data engineering, and scalable software. I enjoy developing AI-powered applications using Python, working with transformer models, and turning real-world data into practical solutions.<br><br>
 
-- 🔭 I’m working as a Data Engineering Trainee (DEPI), focusing on ETL pipelines, data warehousing, and cloud-based solutions<br>
-- 📚 I’m currently learning Machine Learning, Deep Learning, and Natural Language Processing (NLP), and applying them through hands-on projects and online courses<br>
-- ⚡ In my free time, I solve competitive programming problems (1000+ on Codeforces) and experiment with ML/NLP models and data-driven applications
+- 🔭 I’ve worked as a Data Engineering Trainee (DEPI), building ETL pipelines, data warehouses, and cloud-based analytics solutions using Azure<br>
+- 🤖 I build applied AI systems including NLP models, Retrieval-Augmented Generation (RAG) pipelines, and real-time ML applications<br>
+- ⚡ In my free time, I solve competitive programming problems (1500+ on Codeforces, Candidate Master 1900+) and explore advanced ML/NLP techniques
+- 🚀 Interested in building scalable AI systems that bridge machine learning research and real-world applications
 </p>
 
 ###
@@ -69,14 +70,32 @@ I'm Ahmed from Egypt, a lifelong learner passionate about problem solving, data 
 
 ###
 
-<h3 align="left">📌 My Projects</h3>
+<h3 align="left">📌 Featured Projects</h3>
 
 <ul>
-  <li>
-    <b>Data Science, Machine Learning & NLP Notebooks</b><br>
-    Hands-on projects and experiments using Python, covering data analysis, machine learning models.<br>
-    🔗 <a href="https://github.com/AhmedElbana22/projects" target="_blank">Explore Projects</a>
-  </li>
+
+<li>
+<b>ImtiQan — Adaptive RAG Quiz Generator</b><br>
+Full-stack AI learning platform that generates quizzes from uploaded documents using a Retrieval-Augmented Generation (RAG) pipeline with FAISS vector search, MMR reranking, and adaptive difficulty based on Bloom's Taxonomy. Includes cross-session question deduplication and a context-aware teacher chat agent.<br>
+🔗 <a href="https://github.com/AhmedElbana22/Exam-generator-" target="_blank">View Project</a>
+</li>
+
+<br>
+
+<li>
+<b>Neural Machine Translation with Attention</b><br>
+Built an encoder-decoder LSTM model with attention for English-to-Portuguese translation. Implemented greedy decoding and Minimum Bayes Risk (MBR) decoding and trained the model on 50K+ sentence pairs.<br>
+🔗 <a href="https://github.com/AhmedElbana22/Neural-Machine-Translation-with-Attention" target="_blank">View Project</a>
+</li>
+
+<br>
+
+<li>
+<b>Machine Learning & NLP Experiments</b><br>
+Collection of notebooks demonstrating practical implementations of machine learning models, NLP pipelines, and data analysis workflows using Python.<br>
+🔗 <a href="https://github.com/AhmedElbana22/projects" target="_blank">Explore Repository</a>
+</li>
+
 </ul>
 
 ###
