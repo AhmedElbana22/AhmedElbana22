@@ -79,6 +79,13 @@ I'm Ahmed from Egypt, passionate about building intelligent systems that combine
 Full-stack AI learning platform that generates quizzes from uploaded documents using a Retrieval-Augmented Generation (RAG) pipeline with FAISS vector search, MMR reranking, and adaptive difficulty based on Bloom's Taxonomy. Includes cross-session question deduplication and a context-aware teacher chat agent.<br>
 🔗 <a href="https://github.com/AhmedElbana22/Exam-generator-" target="_blank">View Project</a>
 </li>
+<br>
+
+<li>
+<b>Routing Agent-Alexandria Transportation</b><br>
+Built an encoder-decoder LSTM model with attention for English-to-Portuguese translation. Implemented greedy decoding and Minimum Bayes Risk (MBR) decoding and trained the model on 50K+ sentence pairs.<br>
+🔗 <a href="https://github.com/AhmedElbana22/Routing_Agent" target="_blank">View Project</a>
+</li>
 
 <br>
 
