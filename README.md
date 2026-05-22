@@ -83,7 +83,7 @@ Full-stack AI learning platform that generates quizzes from uploaded documents u
 
 <li>
 <b>Routing Agent-Alexandria Transportation</b><br>
-Built an encoder-decoder LSTM model with attention for English-to-Portuguese translation. Implemented greedy decoding and Minimum Bayes Risk (MBR) decoding and trained the model on 50K+ sentence pairs.<br>
+Engineered a conversational transit agent using LangGraph for natural language query processing; integrated ML models for real-time fare estimation and arrival time prediction.<br>
 🔗 <a href="https://github.com/AhmedElbana22/Routing_Agent" target="_blank">View Project</a>
 </li>
 
